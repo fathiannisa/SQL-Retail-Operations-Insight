@@ -1,4 +1,4 @@
-# 📊📦 SQL Project: Warehouse and Customer Analysis
+# SQL Project: Warehouse and Customer Analysis
 
 This repository contains SQL queries that analyze various aspects of warehouse stock, sales, and customer behavior. The goal is to provide insights into inventory management, product profitability, and customer purchasing patterns. The queries focus on filtering, sorting, aggregation, and the use of window functions to generate meaningful business insights.
 
