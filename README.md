@@ -1,15 +1,15 @@
-# SQL Project: Warehouse and Customer Analysis
+# 📊📦 SQL Project: Warehouse and Customer Analysis
 
 This repository contains SQL queries that analyze various aspects of warehouse stock, sales, and customer behavior. The goal is to provide insights into inventory management, product profitability, and customer purchasing patterns. The queries focus on filtering, sorting, aggregation, and the use of window functions to generate meaningful business insights.
 
-## Project Objectives
+## 🎯Project Objectives
 
 The main objectives of this project are:
 - **Inventory Analysis:** To evaluate the current stock levels, understand product variations, and identify understocked or overstocked items.
 - **Sales Simulation:** To project potential sales under different price scenarios, calculate profitability, and determine which products generate the most profit.
 - **Customer Behavior Analysis:** To examine customer demographics, purchasing habits, and patterns, as well as assess the impact of credit limits and city-based promotions.
   
-## Tools and Techniques Used
+## 🛠️Tools and Techniques Used
 
 This project utilizes several key SQL techniques to perform the analysis:
 
@@ -19,7 +19,7 @@ This project utilizes several key SQL techniques to perform the analysis:
 - **Window Functions:** Advanced functions like `AVG()`, `LEAD()`, and `NTH_VALUE()` are used for more complex analysis, such as calculating averages per group, comparing purchases over time, and finding the N-th highest price in each product category.
 - **Date and Time Analysis:** LEAD and LAG functions are used to analyze customer purchase behavior over time, identifying gaps between purchases.
 
-## Insights
+## 💡Insights
 
 The analysis in this project yields valuable business insights, including:
 
@@ -29,6 +29,6 @@ The analysis in this project yields valuable business insights, including:
 - **Price Sensitivity:** By analyzing the relationship between product prices and quantities ordered, we gain insights into customer price sensitivity and can optimize pricing strategies.
 - **Trends Over Time:** The use of window functions like LEAD allows tracking customer purchase behavior, revealing patterns in repeat purchases and helping to forecast future sales trends.
 
-## Conclusion
+## 🏁Conclusion
 
 This project provides a comprehensive view of the warehouse and customer data, offering actionable insights that can drive decision-making in inventory management, pricing strategies, and targeted customer outreach. The use of advanced SQL techniques such as window functions enhances the flexibility and depth of the analysis, enabling the business to make data-driven decisions with confidence.
