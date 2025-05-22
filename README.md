@@ -1,6 +1,17 @@
-# Retail Operations Insight with SQL: Sales, Customers, Products
+# Inventory, Pricing, and Customer Targeting
+This project contains a collection of SQL queries aimed at solving key operational challenges in a retail business. The focus is on evaluating inventory levels, analyzing pricing strategies, and segmenting customers to support data-driven decision-making.
 
-This repository contains SQL queries that analyze various aspects of warehouse stock, sales, and customer behavior. The goal is to provide insights into inventory management, product profitability, and customer purchasing patterns. The queries focus on filtering, sorting, aggregation, and the use of window functions to generate meaningful business insights.
+## 📊 Topics Covered
+- Stock availability and warehouse completeness checks
+- Identifying product categories with low variation
+- Comparing product stock levels to category averages
+- Exploring the relationship between product prices and purchase volume
+- Tracking repeat purchases and purchase intervals
+- Finding N-th most expensive products by category
+- Simulating pricing strategies and profit projections
+- Segmenting customers by company type or location
+- Identifying customers eligible for promotions based on credit limits
+- Highlighting top-paying customers for loyalty rewards
 
 ## 🛠️Tools and Techniques Used
 This project utilizes several key SQL techniques to perform the analysis:
